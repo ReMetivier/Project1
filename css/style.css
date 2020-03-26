@@ -1,0 +1,69 @@
+.logo {
+ filter: grayscale(100%);
+ width: 200px;
+ height: 200px;
+ margin: 130px;
+ margin-bottom: 80px;
+}
+.logo {
+border-radius: 50%;
+border: 10px solid white;
+}
+.bordureExterieur{
+  width: auto;
+  height: auto;
+  border: 5px red solid;
+  font: font-family: 'Roboto', sans-serif;
+}
+.bordureGauche{
+  background-color:  #4a4a4c;
+  vertical-align: top;
+  border: 5px orange solid;
+  display: inline-block;
+  font-size: 29px;
+  }
+.bordureDroite{
+  border: 5px yellow solid;
+  display: inline-block;
+  width: auto;
+  height: auto;
+  font-size: 18px;
+  margin-left: 15px;
+  background-color:  #f8f8f8;
+}
+.White{
+  color: white;
+  font-style: bold;
+}
+.Contact{
+  color: white;
+  margin: 15px;
+  margin-bottom: 78px;
+}
+.star{
+  margin-left: 15px;
+}
+.text{
+  width: 100px;
+  display: inline-block;
+  font-weight: bold;
+  font-size: 20px;
+}
+.margeText{
+  margin-left: 15px;
+}
+.language{
+  font-weight: bold;
+  font-size: 20px;
+}
+.Skills{
+  color: white;
+}
+.nom{
+  font-size: 25px;
+  margin-top: 171px;
+  margin-bottom: 188px;
+}
+.bleu{
+  color: #11a9f3;
+}
