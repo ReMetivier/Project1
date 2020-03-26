@@ -12,18 +12,18 @@ border: 10px solid white;
 .bordureExterieur{
   width: auto;
   height: auto;
-  border: 5px red solid;
+  /*border: 5px red solid;*/
   font: font-family: 'Roboto', sans-serif;
 }
 .bordureGauche{
   background-color:  #4a4a4c;
   vertical-align: top;
-  border: 5px orange solid;
+  /*border: 5px orange solid;*/
   display: inline-block;
   font-size: 29px;
   }
 .bordureDroite{
-  border: 5px yellow solid;
+  /*border: 5px yellow solid;*/
   display: inline-block;
   width: auto;
   height: auto;
