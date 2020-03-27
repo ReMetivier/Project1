@@ -40,6 +40,22 @@ border: 10px solid white;
   margin: 15px;
   margin-bottom: 78px;
 }
+.icon1{
+  height: 35px;
+  width: 35px;
+  border-radius: 25% 10%;
+  background-color: white;
+  color: #11a9f3;
+  padding: 5px 7px 2px 9px;
+}
+.icon2{
+  height: 35px;
+  width: 35px;
+  border-radius: 25% 10%;
+  background-color: #11a9f3;
+  color: white;
+  padding: 12px 6px 6px 7px;
+}
 .star{
   margin-left: 15px;
 }
@@ -66,4 +82,13 @@ border: 10px solid white;
 }
 .bleu{
   color: #11a9f3;
+}
+.blanc{
+  color: #ffffff;
+}
+.icon{
+  border-radius: 50%;
+  border: 1px solid;
+  background-color: #11a9f3;
+  margin: 5px;
 }
